@@ -92,22 +92,19 @@ body{
 
 .icon{
 	z-index: 15;
-	height: 5vw !important;
+	height: 1.4vw!important;
 	border: 0;
-	color: red;
-	margin-right:0;
-	margin-left: -4vw;
-	margin-bottom: -1vw;
+	margin-right:.5vw!important;
+	margin-top: .4vw!important;
 }
 .icon1{
 	z-index: 15;
-	width:8vw!important;
+	width: 1.5vw;
 	border: 0;
 	color: red;
-	margin-right: 2px;
 	
-	margin-top: -1vw;
-	margin-bottom: -1vw;
+	 margin-right:.5vw;
+	 margin-top: .25vw;
 }
 
 .bg{	pointer-events: none;
