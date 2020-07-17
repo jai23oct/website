@@ -268,7 +268,7 @@ body{
 	font-size: 20px;
 }
 
-img:not(.icon1){
+img:not(.icon){
 
 	width: 100%;
 	height: auto;
@@ -301,6 +301,7 @@ img:not(.icon1){
 .icon{
 	z-index: 15;
 	height: 3vw !important;
+	width:auto;
 	border: 0;
 	color: red;
 	margin-right: 2vw;
