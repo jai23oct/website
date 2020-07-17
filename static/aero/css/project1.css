@@ -301,17 +301,20 @@ img:not(.icon){
 .icon{
 	z-index: 15;
 	height: 3vw !important;
-	width:auto;
 	border: 0;
 	color: red;
-	margin-right: 2vw;
+	margin-right:0;
+	margin-left: -2vw;
 }
 .icon1{
 	z-index: 15;
-	width:2vw!important;
+	width:4vw!important;
 	border: 0;
 	color: red;
-	margin-right: 10px;
+	margin-right: 2px;
+	margin-left: -1vw;
+	margin-top: -1vw;
+	margin-bottom: -1vw;
 }
 
 .invisible1{
