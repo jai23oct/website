@@ -301,24 +301,23 @@ img{
 
 .icon{
 	z-index: 15;
-	height: 5vw !important;
+	height: 300px!important;
 	border: 0;
 	color: red;
 	margin-right:0;
-	margin-left: -4vw;
+	margin-left: 0px;
 	margin-bottom: -1vw;
 }
 .icon1{
 	z-index: 15;
-	width:8vw!important;
+	width:150px!important;
 	border: 0;
 	color: red;
 	margin-right: 2px;
 	
-	margin-top: -1vw;
-	margin-bottom: -1vw;
+	margin-top: -50px;
+	margin-bottom: -50px;
 }
-
 .invisible1:.icon{
 margin: 0 !important;
 
