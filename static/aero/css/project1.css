@@ -299,25 +299,26 @@ img:not(.icon){
 	
 }
 
-
 .icon{
 	z-index: 15;
-	height: 3vw !important;
+	height: 5vw !important;
 	border: 0;
 	color: red;
 	margin-right:0;
-	margin-left: -2vw;
+	margin-left: -4vw;
+	margin-bottom: -1vw;
 }
 .icon1{
 	z-index: 15;
-	width:4vw!important;
+	width:8vw!important;
 	border: 0;
 	color: red;
 	margin-right: 2px;
-	margin-left: -1vw;
+	
 	margin-top: -1vw;
 	margin-bottom: -1vw;
 }
+
 
 .invisible1{
 
