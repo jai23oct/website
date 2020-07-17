@@ -107,6 +107,7 @@ body{
 	 margin-top: .25vw;
 }
 
+
 .bg{	pointer-events: none;
 	width: 77vw;
 	left: 11vw;
@@ -267,7 +268,7 @@ body{
 	font-size: 20px;
 }
 
-img:not(.icon){
+img{
 
 	width: 100%;
 	height: auto;
@@ -284,17 +285,19 @@ img:not(.icon){
 }
 
 .icon:hover{
-	height: 4vw!important;
+	height: 1vw!important;
+	width: auto;
 	margin-top: 2px !important;
 	margin-right:2px !important;
 	padding:0!important;
 }
 .icon1:hover{
-	width: 4vw !important;
+	width: 6vw !important;
 	margin-right: 8px !important;
 	margin-top: 0!important;
 	
 }
+
 
 .icon{
 	z-index: 15;
@@ -315,7 +318,6 @@ img:not(.icon){
 	margin-top: -1vw;
 	margin-bottom: -1vw;
 }
-
 
 .invisible1{
 
@@ -400,4 +402,3 @@ opacity: 1;
       font-size:medium;
       font-weight: bold;
     }
-
