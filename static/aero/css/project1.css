@@ -319,10 +319,13 @@ img{
 	margin-bottom: -1vw;
 }
 
-.invisible1{
+.invisible1:.icon{
+margin: 0 !important;
+
+}{
 
 opacity: 0;
-}	
+}
 .invisible{
 opacity: 1;
 }  	
