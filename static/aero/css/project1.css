@@ -259,6 +259,11 @@ body{
   	overflow: scroll;
 }
 }
+
+
+
+
+
 @media (max-width: 600px) {
 	#project-text{
 	font-family: Azonix;
@@ -284,47 +289,32 @@ img{
 
 }
 
-.icon:hover{
-	height: 1vw!important;
-	width: auto;
-	margin-top: 2px !important;
-	margin-right:2px !important;
-	padding:0!important;
-}
-.icon1:hover{
-	width: 6vw !important;
-	margin-right: 8px !important;
-	margin-top: 0!important;
-	
-}
 
 
 .icon{
 	z-index: 15;
-	height: 300px!important;
+	height:30px!important;
 	border: 0;
 	color: red;
-	margin-right:0;
+	margin-right:20px;
 	margin-left: 0px;
 	margin-bottom: -1vw;
 }
 .icon1{
 	z-index: 15;
-	width:150px!important;
+	width:40px!important;
 	border: 0;
 	color: red;
 	margin-right: 2px;
-	
-	margin-top: -50px;
+	margin-left: 5px;
+	margin-top: -40px;
 	margin-bottom: -50px;
 }
-.invisible1:.icon{
-margin: 0 !important;
 
-}{
+.invisible1{
 
 opacity: 0;
-}
+}	
 .invisible{
 opacity: 1;
 }  	
